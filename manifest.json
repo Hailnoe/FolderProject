@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Folder for Links!",
-  "description": "We create folders and add links for easy cross project management.",
+  "description": "An extension that creates folders to store and organize hyperlinks",
   "version": "0.1",
 
   "browser_action": {
